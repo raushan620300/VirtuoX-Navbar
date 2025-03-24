@@ -4,7 +4,7 @@ This project is a **fully responsive navigation bar** built using **HTML, CSS, a
 
 ## Features
 - Responsive design for all screen sizes
-- Interactive H-menu toggle for mobile devices
+- Interactive Hamburger-menu toggle for mobile devices
 - Clean and modern UI
 - Easy to integrate into any project
 
